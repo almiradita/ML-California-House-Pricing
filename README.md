@@ -47,4 +47,4 @@ This repository serves as the foundation for developing and deploying the Califo
 
 ---
 
-Feel free to use and adapt this README for your project as needed.
+
